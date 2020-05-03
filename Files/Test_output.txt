@@ -1,0 +1,473 @@
+make
+Alarm> hello
+ERROR!!! Bad Input
+Alarm> 1
+ERROR!!! Bad Input
+Alarm> eecs3221 
+ERROR!!! Bad Input
+Alarm> Time Message(Message_Number) Message
+ERROR!!! Bad Input
+Alarm> 0.5  
+ERROR!!! Bad Input
+Alarm> 1
+ERROR!!! Bad Input
+Alarm> Message  
+ERROR!!! Bad Input
+Alarm> Message(2)
+ERROR!!! Bad Input
+Alarm> Message(2) message2
+ERROR!!! Bad Input
+Alarm> 0.5 Message(2) message2
+ERROR!!! Bad Input
+Alarm> !@!#!        
+ERROR!!! Bad Input
+Alarm> An A+ would be Nice :)!
+ERROR!!! Bad Input
+Alarm> Happy Holidays!    
+ERROR!!! Bad Input
+
+Alarm> 10 Message(1) Happy Holidays!   
+Alarm> DISPLAY THREAD CREATED FOR: Message(1) Happy Holidays!
+Message(1) Happy Holidays!
+Message(1) Happy Holidays!
+Message(1) Happy Holidays!
+Cancel: Message(1)
+Alarm> CANCEL: Message(1) 
+DISPLAY THREAD EXITING: Message(1)
+
+Alarm> 5 Message(5) Thank You for teaching 3221 Professor!
+Alarm> DISPLAY THREAD CREATED FOR: Message(5) Thank You for teaching 3221 Professor!
+Message(5) Thank You for teaching 3221 Professor!
+Message(5) Thank You for teaching 3221 Professor!
+Message(5) Thank You for teaching 3221 Professor!
+Message(5) Thank You for teaching 3221 Professor!
+Message(5) Thank You for teaching 3221 Professor!
+Cancel: Message(5)        
+Alarm> CANCEL: Message(5) 
+DISPLAY THREAD EXITING: Message(5)
+
+Alarm> 5 Message(2) Buy groceries at Metro
+Alarm> DISPLAY THREAD CREATED FOR: Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Cancel: Message(2)
+Alarm> CANCEL: Message(1) 
+DISPLAY THREAD EXITING: Message(2)
+
+Alarm> 5 Message(1) Message1
+Alarm> DISPLAY THREAD CREATED FOR: Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+CANCEL: Message(2) 
+ERROR!!! Bad Input
+Alarm> Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Message(1) Message1
+Cancel: Message(1)         
+Alarm> CANCEL: Message(1) 
+DISPLAY THREAD EXITING: Message(1)
+
+Alarm> 1 Message(1) 1 Frequent
+Alarm> DISPLAY THREAD CREATED FOR: Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Message(1) 1 Frequent
+Cancel: Message(1) 
+Alarm> CANCEL: Message(1) 
+DISPLAY THREAD EXITING: Message(1)
+
+Alarm> 5 Message(2) Buy groceries at Metro
+Alarm> DISPLAY THREAD CREATED FOR: Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+CANCEL: Message(2) Buy groceries at Metro
+ERROR!!! Bad Input
+Alarm> Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Message(2) Buy groceries at Metro
+Cancel: Message(2) Buy groceries at Metro
+Alarm> CANCEL: Message(2) 
+DISPLAY THREAD EXITING: Message(2)
+
+Alarm> 5 Message(2) sent
+Alarm> DISPLAY THREAD CREATED FOR: Message(2) sent
+Message(2) sent
+Message(2) sent
+Message(2) sent
+Message(2) sent
+Message(2) sent
+cancel: Message(2)
+ERROR!!! Bad Input
+Alarm> Message(2) sent
+Message(2) sent
+Message(2) sent
+Message(2) sent
+Cancel: Message(2)
+Alarm> CANCEL: Message(2) 
+DISPLAY THREAD EXITING: Message(2)
+
+Alarm> 100 Message(100) 100long
+Alarm> DISPLAY THREAD CREATED FOR: Message(100) 100long
+Message(100) 100long
+Message(100) 100long
+Message(100) 100long
+Message(100) 100long
+Message(100) 100long
+Message(100) 100long
+Message(100) 100long
+Message(100) 100long
+Message(100) 100long
+Message(100) 100long
+Cancel: Message(100) 100long
+Alarm> CANCEL: Message(100) 
+DISPLAY THREAD EXITING: Message(100)
+
+Alarm> 10 Message(1) message1
+Alarm> DISPLAY THREAD CREATED FOR: Message(1) message1
+Message(1) message1
+Message(1) message1
+10 Message(1) replace1 
+Alarm> Message(1) replace1
+MESSAGE CHANGED: Message(1) replace1
+MESSAGE CHANGED: Message(1) replace1
+MESSAGE CHANGED: Message(1) replace1
+MESSAGE CHANGED: Message(1) replace1
+10 Message(1) replace1 again
+Alarm> MESSAGE CHANGED: Message(1) replace1 again
+MESSAGE CHANGED: Message(1) replace1 again
+MESSAGE CHANGED: Message(1) replace1 again
+MESSAGE CHANGED: Message(1) replace1 again
+10 Message(1) replace1 once again
+Alarm> MESSAGE CHANGED: Message(1) replace1 once again
+MESSAGE CHANGED: Message(1) replace1 once again
+MESSAGE CHANGED: Message(1) replace1 once again
+Cancel: Message(1)
+Alarm> CANCEL: Message(1) 
+DISPLAY THREAD EXITING: Message(1)
+
+Alarm> 4 Message(1) t1
+Alarm> DISPLAY THREAD CREATED FOR: Message(1) t1
+Message(1) t1
+Message(1) t1
+Message(1) t1
+Message(1) t1
+Message(1) t1
+Message(1) t1
+4 Message(2) t2
+Alarm> DISPLAY THREAD CREATED FOR: Message(2) t2
+Message(2) t2
+Alarm> Message(1) t1
+Message(2) t2
+Message(1) t1
+Message(2) t2
+Message(1) t1
+Message(2) t2
+Message(1) t1
+Message(2) t2
+Message(1) t1
+Message(2) t2
+4 Message(3) t3
+Alarm> DISPLAY THREAD CREATED FOR: Message(3) t3
+Message(3) t3
+Message(1) t1
+Message(2) t2
+Message(3) t3
+Message(1) t1
+Message(2) t2
+Message(3) t3
+Message(1) t1
+4 Message(4) t4
+Alarm> DISPLAY THREAD CREATED FOR: Message(4) t4
+Message(4) t4
+Message(2) t2
+Message(3) t3
+Message(1) t1
+Message(4) t4
+Message(2) t2
+Message(3) t3
+Message(1) t1
+Message(4) t4
+Message(2) t2
+Message(3) t3
+Message(1) t1
+4 Message(5) t5Message(4) t4
+Alarm> DISPLAY THREAD CREATED FOR: Message(5) t5
+Message(5) t5
+Message(2) t2
+Message(3) t3
+Message(1) t1
+Message(4) t4
+Message(5) t5
+Message(2) t2
+Message(3) t3
+Message(1) t1
+Message(4) t4
+Message(5) t5
+Message(2) t2
+Message(3) t3
+Message(1) t1
+Message(4) t4
+Message(5) t5
+Message(2) t2
+Message(3) t3
+Message(1) t1
+Message(4) t4
+Message(5) t5
+Message(2) t2
+Message(3) t3
+Message(1) t1
+Message(4) t4
+Message(5) t5
+Message(2) t2
+Message(3) t3
+Message(1) t1
+Message(4) t4
+Message(5) t5
+Message(2) t2
+Message(3) t3
+Message(1) t1
+Message(4) t4
+Message(5) t5
+Message(2) t2
+Cancel: Message(1)Message(3) t3
+Alarm> CANCEL: Message(1) 
+DISPLAY THREAD EXITING: Message(1)
+Message(4) t4
+Message(5) t5
+Message(2) t2
+Message(3) t3
+Message(4) t4
+Message(5) t5
+Message(2) t2
+Message(3) t3
+Cancel: Message(2)
+Alarm> CANCEL: Message(2) 
+Message(4) t4
+Message(5) t5
+DISPLAY THREAD EXITING: Message(2)
+Message(3) t3
+Message(4) t4
+Message(5) t5
+Message(3) t3
+Cancel: Message(3)
+Alarm> CANCEL: Message(3) 
+Message(4) t4
+Message(5) t5
+DISPLAY THREAD EXITING: Message(3)
+Message(4) t4
+Message(5) t5
+Message(4) t4
+Message(5) t5
+Cancel: Message(4)
+Alarm> CANCEL: Message(4) 
+Message(5) t5
+DISPLAY THREAD EXITING: Message(4)
+Message(5) t5
+Cancel: Message(5)
+Alarm> CANCEL: Message(5) 
+DISPLAY THREAD EXITING: Message(5)
+
+Alarm> 5 Message(1) m1
+Alarm> DISPLAY THREAD CREATED FOR: Message(1) m1
+Message(1) m1
+5 Message(2) m2
+Alarm> DISPLAY THREAD CREATED FOR: Message(2) m2
+Message(2) m2
+Message(1) m1
+Message(2) m2
+Message(1) m1
+Message(2) m2
+Message(1) m1
+5 Message(3) m3 
+Alarm> DISPLAY THREAD CREATED FOR: Message(3) m3
+Message(3) m3
+Message(2) m2
+Message(1) m1
+Message(3) m3
+Message(2) m2
+Message(1) m1
+Message(3) m3
+Message(2) m2
+Message(1) m1
+Message(3) m3
+5 Message(4) m4
+Alarm> DISPLAY THREAD CREATED FOR: Message(4) m4
+Message(4) m4
+Message(2) m2
+Message(1) m1
+Message(3) m3
+Message(4) m4
+Message(2) m2
+Message(1) m1
+5 Message(5) m5
+Alarm> DISPLAY THREAD CREATED FOR: Message(5) m5
+Message(5) m5
+Message(3) m3
+Message(4) m4
+Message(2) m2
+Message(1) m1
+Message(5) m5
+Message(3) m3
+Message(4) m4
+Message(2) m2
+Message(1) m1
+Message(5) m5
+Message(3) m3
+Message(4) m4
+Message(2) m2
+Message(1) m1
+Message(5) m5
+Message(3) m3
+Message(4) m4
+Message(2) m2
+Message(1) m1
+Message(5) m5
+Message(3) m3
+Message(4) m4
+5 Message(1) m1 was changed!
+Alarm> Message(2) m2
+Message(1) m1 was changed!
+Message(5) m5
+Message(3) m3
+Message(4) m4
+Message(2) m2
+MESSAGE CHANGED: Message(1) m1 was changed!
+Message(5) m5
+Message(3) m3
+Message(4) m4
+5 Message(2) m2 was changed!
+Alarm> Message(2) m2 was changed!
+MESSAGE CHANGED: Message(1) m1 was changed!
+Message(5) m5
+Message(3) m3
+Message(4) m4
+MESSAGE CHANGED: Message(2) m2 was changed!
+5 Message(3) m3 was changed!
+MESSAGE CHANGED: Message(1) m1 was changed!
+Alarm> Message(5) m5
+Message(3) m3 was changed!
+Message(4) m4
+MESSAGE CHANGED: Message(2) m2 was changed!
+MESSAGE CHANGED: Message(1) m1 was changed!
+Message(5) m5
+MESSAGE CHANGED: Message(3) m3 was changed!
+Message(4) m4
+MESSAGE CHANGED: Message(2) m2 was changed!
+5 Message(4) m4 was changed!
+Alarm> MESSAGE CHANGED: Message(1) m1 was changed!
+Message(5) m5
+MESSAGE CHANGED: Message(3) m3 was changed!
+Message(4) m4 was changed!
+MESSAGE CHANGED: Message(2) m2 was changed!
+MESSAGE CHANGED: Message(1) m1 was changed!
+Message(5) m5
+MESSAGE CHANGED: Message(3) m3 was changed!
+MESSAGE CHANGED: Message(4) m4 was changed!
+MESSAGE CHANGED: Message(2) m2 was changed!
+MESSAGE CHANGED: Message(1) m1 was changed!
+Message(5) m5
+5 Message(5) m5 was changed!MESSAGE CHANGED: Message(3) m3 was changed!
+Alarm> MESSAGE CHANGED: Message(4) m4 was changed!
+MESSAGE CHANGED: Message(2) m2 was changed!
+MESSAGE CHANGED: Message(1) m1 was changed!
+Message(5) m5 was changed!
+MESSAGE CHANGED: Message(3) m3 was changed!
+MESSAGE CHANGED: Message(4) m4 was changed!
+MESSAGE CHANGED: Message(2) m2 was changed!
+MESSAGE CHANGED: Message(1) m1 was changed!
+MESSAGE CHANGED: Message(5) m5 was changed!
+MESSAGE CHANGED: Message(3) m3 was changed!
+MESSAGE CHANGED: Message(4) m4 was changed!
+MESSAGE CHANGED: Message(2) m2 was changed!
+MESSAGE CHANGED: Message(1) m1 was changed!
+MESSAGE CHANGED: Message(5) m5 was changed!
+MESSAGE CHANGED: Message(3) m3 was changed!
+MESSAGE CHANGED: Message(4) m4 was changed!
+MESSAGE CHANGED: Message(2) m2 was changed!
+MESSAGE CHANGED: Message(1) m1 was changed!
+MESSAGE CHANGED: Message(5) m5 was changed!
+MESSAGE CHANGED: Message(3) m3 was changed!
+MESSAGE CHANGED: Message(4) m4 was changed!
+MESSAGE CHANGED: Message(2) m2 was changed!
+MESSAGE CHANGED: Message(1) m1 was changed!
+MESSAGE CHANGED: Message(5) m5 was changed!
+MESSAGE CHANGED: Message(3) m3 was changed!
+MESSAGE CHANGED: Message(4) m4 was changed!
+MESSAGE CHANGED: Message(2) m2 was changed!
+Cancel: Message(1)MESSAGE CHANGED: Message(1) m1 was changed!
+Alarm> CANCEL: Message(1) 
+MESSAGE CHANGED: Message(5) m5 was changed!
+MESSAGE CHANGED: Message(3) m3 was changed!
+MESSAGE CHANGED: Message(4) m4 was changed!
+MESSAGE CHANGED: Message(2) m2 was changed!
+DISPLAY THREAD EXITING: Message(1)
+MESSAGE CHANGED: Message(5) m5 was changed!
+MESSAGE CHANGED: Message(3) m3 was changed!
+MESSAGE CHANGED: Message(4) m4 was changed!
+Cancel: Message(2)
+Alarm> CANCEL: Message(2) 
+DISPLAY THREAD EXITING: Message(2)
+MESSAGE CHANGED: Message(5) m5 was changed!
+MESSAGE CHANGED: Message(3) m3 was changed!
+MESSAGE CHANGED: Message(4) m4 was changed!
+Cancel: Message(3)
+Alarm> CANCEL: Message(3) 
+MESSAGE CHANGED: Message(5) m5 was changed!
+DISPLAY THREAD EXITING: Message(3)
+MESSAGE CHANGED: Message(4) m4 was changed!
+Cancel: Message(4)
+Alarm> CANCEL: Message(4) 
+MESSAGE CHANGED: Message(5) m5 was changed!
+DISPLAY THREAD EXITING: Message(4)
+MESSAGE CHANGED: Message(5) m5 was changed!
+Cancel: Message(5)
+Alarm> CANCEL: Message(5) 
+Alarm> DISPLAY THREAD EXITING: Message(5)
+
